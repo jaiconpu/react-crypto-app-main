@@ -6,3 +6,7 @@ cryptocurrency.
 
 Tech Stack Used : ReactJs to create components , Axios library to make API request to 'coingecko' to fetch dynamic
 data &, Chakra UI library for responsive CSS for various devices and Web App is deployed using Vercel
+
+
+
+![React](https://user-images.githubusercontent.com/125449293/231184507-f00ca097-539b-4400-bb8a-db52e44b00fe.JPG)
